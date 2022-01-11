@@ -58,8 +58,9 @@ module.exports = {
       ],
     },
     algolia: {
-      // https://v2.docusaurus.io/docs/search/
-      apiKey: '008a4ddf459e4f41ceddc60d6baebc6f',
+      // https://docusaurus.io/blog/2021/11/21/algolia-docsearch-migration
+      appId: '44X4G5ZXKB',
+      apiKey: '152efab97b0443cf92b925d295a6bc9c',
       indexName: 'shabados',
     },
     prism: {
